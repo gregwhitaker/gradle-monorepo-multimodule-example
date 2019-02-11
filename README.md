@@ -1,6 +1,6 @@
 # gradle-monorepo-example
 
-An example of building projects in a monorepo using [Gradle Composite Builds](https://docs.gradle.org/current/userguide/composite_builds.html).
+An example of building multi-module projects in a monorepo using [Gradle Composite Builds](https://docs.gradle.org/current/userguide/composite_builds.html).
 
 ## Repository Structure
 The repository contains three projects, 2 single module projects and 1 multi-module project, each with their own Gradle configurations.
