@@ -12,6 +12,9 @@ Projects A, B, and Common-C have dependencies on one another:
 Project Common-D has no dependencies on the other projects:
     
     [project-common/project-d]
+    
+## Bugs and Feedback
+For bugs, questions, and discussions please use the [Github Issues](https://github.com/gregwhitaker/gradle-monorepo-multimodule-example/issues).
         
 ## License
 MIT License
