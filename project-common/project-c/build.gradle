@@ -5,5 +5,5 @@ plugins {
 sourceCompatibility = 1.8
 
 dependencies {
-    implementation project(':project-d')
+    
 }

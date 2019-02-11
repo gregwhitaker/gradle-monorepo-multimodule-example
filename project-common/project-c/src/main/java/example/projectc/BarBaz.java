@@ -23,11 +23,9 @@
  */
 package example.projectc;
 
-import example.projectd.Baz;
-
 public class BarBaz {
 
-    public String getBar() {
-        return "Bar" + new Baz().getBaz();
+    public String getBarBaz() {
+        return "BarBaz";
     }
 }

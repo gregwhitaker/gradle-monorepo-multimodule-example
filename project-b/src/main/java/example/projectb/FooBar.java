@@ -23,14 +23,14 @@
  */
 package example.projectb;
 
-import example.projectc.Bar;
+import example.projectc.BarBaz;
 
 public class FooBar {
 
     public String getFooBar() {
         Foo foo = new Foo();
-        Bar bar = new Bar();
+        BarBaz barBaz = new BarBaz();
 
-        return foo.getFoo() + bar.getBar();
+        return foo.getFoo() + barBaz.getBarBaz();
     }
 }
